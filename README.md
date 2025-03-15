@@ -1,2 +1,15 @@
-# project_customer_churn
-Implement udacity course learnings to identify credit card customers who are most likely to churn.
+# Predict Customer Churn
+
+- Project **Predict Customer Churn** of ML DevOps Engineer Nanodegree Udacity
+
+## Project Description
+Your project description here.
+
+## Files and data description
+Overview of the files and data present in the root directory. 
+
+## Running Files
+How do you run your files? What should happen when you run your files?
+
+
+
