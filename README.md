@@ -27,7 +27,9 @@ How do you run your files? What should happen when you run your files?
 
 ### Running from terminal
 1. Install requirements: 
-> pip install -r requirements_py3.10.txt
+
+    pip install -r requirements_py3.10.txt
+
 2. Run testing and logging: ipython churn_script_logging_and_tests.py
 This creates 
 3. Run the training: ipython churn_library.py
