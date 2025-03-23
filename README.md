@@ -7,26 +7,29 @@ In this project, credit card customers who are most likely to churn are identifi
 
 ## Files and data description
 Overview of the files and data present in the root directory. 
-├── Guide.ipynb          # Getting started and troubleshooting tips
-├── churn_notebook.ipynb # Contains the code to be refactored
-├── churn_library.py     # Contains the necessary functions
-├── churn_script_logging_and_tests.py # Contains tests and logs
-├── README.md            # Provides project overview, and instructions to use the code
-├── data                 # Project data file
-│   └── bank_data.csv
-├── images               # Location for EDA results
-│   ├── eda
-│   └── results
-├── logs				 # Location for logs
-└── models               # Location for models
+
+    .
+    ├── Guide.ipynb          # Getting started and troubleshooting tips
+    ├── churn_notebook.ipynb # Contains the code to be refactored
+    ├── churn_library.py     # Contains the necessary functions
+    ├── churn_script_logging_and_tests.py # Contains tests and logs
+    ├── README.md            # Provides project overview, and instructions to use the code
+    ├── data                 # Project data file
+    │   └── bank_data.csv
+    ├── images               # Location for EDA results
+    │   ├── eda
+    │   └── results
+    ├── logs				 # Location for logs
+    └── models               # Location for models
 
 ## Running Files
 How do you run your files? What should happen when you run your files?
 
 ### Running from terminal
-1. Install requirements: pip install -r requirements_py3.10.txt
+1. Install requirements: 
+> pip install -r requirements_py3.10.txt
 2. Run testing and logging: ipython churn_script_logging_and_tests.py
-    This creates 
+This creates 
 3. Run the training: ipython churn_library.py
 
 
